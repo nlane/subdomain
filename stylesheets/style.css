@@ -52,6 +52,11 @@ a:hover {
   text-align: center;
 }
 
+.sectionTitle {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
 .rectangleTwit {
   background-image: url("../imgs/twit.png");
   background-size: 50%;
@@ -92,6 +97,82 @@ a:hover {
 
 .rectangleEmail {
   background-image: url("../imgs/email.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 290px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleMusic {
+  background-image: url("../imgs/music.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 290px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleBacon{
+  background-image: url("../imgs/kevin.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 290px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleBrix{
+  background-image: url("../imgs/bricks.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 290px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleLove{
+  background-image: url("../imgs/love.svg");
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
