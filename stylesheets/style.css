@@ -1,11 +1,11 @@
 head{
   background-color: #3d3d3d;
-
+    font-family: 'Aref Ruqaa', serif;
 }
 
 body {
   background-color: #3d3d3d;
-
+  font-family: 'Aref Ruqaa', serif;
 }
 .page-header {
   background-color: #3d3d3d;
@@ -29,6 +29,86 @@ box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
 
 .project-name {
   line-height: 125px;
-  font-family: 'Aref Ruqaa', serif;
   font-size:35px;
+}
+
+.links {
+  position: relative;
+  left:30%;
+  top: 120px;
+
+}
+
+a {
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.group {
+  text-align: center;
+}
+
+.rectangleTwit {
+  background-image: url("../imgs/twit.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 300px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleMine {
+  background-image: url("../imgs/mines.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 300px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.rectangleEmail {
+  background-image: url("../imgs/email.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 15px;
+  border: 2px solid black;
+  margin-top: 75px;
+  background-color: #F2F3F4;
+  width: 280px;
+	height: 300px;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-color: black;
+  font-size: 25px;
+}
+
+.test {
+  background-image: url("../imgs/twit.png");
 }
