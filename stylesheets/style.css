@@ -60,150 +60,44 @@ a:hover {
   font-size: 30px;
 }
 
-.rectangleTwit:hover {
-    background-color: #d3d3d3;
-}
-
-.rectangleTwit {
+#rectangleTwit {
   background-image: url("../imgs/twit.png");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleMine:hover {
-    background-color: #d3d3d3;
-}
 
-.rectangleMine {
+#rectangleMine {
   background-image: url("../imgs/mines.png");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleEmail:hover {
-    background-color: #d3d3d3;
-}
 
-.rectangleEmail {
+#rectangleEmail {
   background-image: url("../imgs/email.png");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleMusic:hover {
-    background-color: #d3d3d3;
-}
 
-.rectangleMusic {
+#rectangleMusic {
   background-image: url("../imgs/music.png");
-  background-size: 80%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleBacon:hover {
-    background-color: #d3d3d3;
-}
 
-.rectangleBacon{
+#rectangleBacon{
   background-image: url("../imgs/kevin.png");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleBrix:hover {
-    background-color: #d3d3d3;
-}
 
-.rectangleBrix{
+#rectangleBrix{
   background-image: url("../imgs/bricks.png");
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-top: 75px;
-  background-color: #F2F3F4;
-  width: 280px;
-	height: 290px;
-  box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
-  display: inline-block;
-  margin-left: 60px;
-  margin-right: 60px;
-  text-color: black;
-  font-size: 25px;
 }
 
-.rectangleLove:hover {
+.rectangle:hover {
     background-color: #d3d3d3;
 }
 
-.rectangleLove{
+#rectangleLove{
   background-image: url("../imgs/love.svg");
+}
+
+.rectangle{
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
@@ -212,7 +106,7 @@ a:hover {
   margin-top: 75px;
   background-color: #F2F3F4;
   width: 280px;
-	height: 290px;
+  height: 290px;
   box-shadow: 0 0 10px 5px rgba(0,0,0,0.6);
   display: inline-block;
   margin-left: 60px;
