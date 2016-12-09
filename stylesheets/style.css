@@ -57,7 +57,7 @@ a:hover {
 .sectionTitle {
   text-align: center;
   color: white;
-  font-size: 25px;
+  font-size: 30px;
 }
 .rectangleTwit {
   background-image: url("../imgs/twit.png");
@@ -190,10 +190,6 @@ a:hover {
   margin-right: 60px;
   text-color: black;
   font-size: 25px;
-}
-
-.test {
-  background-image: url("../imgs/twit.png");
 }
 
 .rectangleText{
