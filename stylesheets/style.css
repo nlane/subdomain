@@ -59,6 +59,11 @@ a:hover {
   color: white;
   font-size: 30px;
 }
+
+.rectangleTwit:hover {
+    background-color: #d3d3d3;
+}
+
 .rectangleTwit {
   background-image: url("../imgs/twit.png");
   background-size: 50%;
@@ -76,6 +81,10 @@ a:hover {
   margin-right: 60px;
   text-color: black;
   font-size: 25px;
+}
+
+.rectangleMine:hover {
+    background-color: #d3d3d3;
 }
 
 .rectangleMine {
@@ -97,6 +106,10 @@ a:hover {
   font-size: 25px;
 }
 
+.rectangleEmail:hover {
+    background-color: #d3d3d3;
+}
+
 .rectangleEmail {
   background-image: url("../imgs/email.png");
   background-size: 50%;
@@ -114,6 +127,10 @@ a:hover {
   margin-right: 60px;
   text-color: black;
   font-size: 25px;
+}
+
+.rectangleMusic:hover {
+    background-color: #d3d3d3;
 }
 
 .rectangleMusic {
@@ -135,6 +152,10 @@ a:hover {
   font-size: 25px;
 }
 
+.rectangleBacon:hover {
+    background-color: #d3d3d3;
+}
+
 .rectangleBacon{
   background-image: url("../imgs/kevin.png");
   background-size: 50%;
@@ -154,6 +175,10 @@ a:hover {
   font-size: 25px;
 }
 
+.rectangleBrix:hover {
+    background-color: #d3d3d3;
+}
+
 .rectangleBrix{
   background-image: url("../imgs/bricks.png");
   background-size: 50%;
@@ -171,6 +196,10 @@ a:hover {
   margin-right: 60px;
   text-color: black;
   font-size: 25px;
+}
+
+.rectangleLove:hover {
+    background-color: #d3d3d3;
 }
 
 .rectangleLove{
